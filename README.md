@@ -1,2 +1,2 @@
 # Particle Swarm optimization in Unity3D
-[](/video/example.gif)
+![](/video/example.gif)
